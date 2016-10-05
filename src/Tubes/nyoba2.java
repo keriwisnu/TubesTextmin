@@ -10,5 +10,5 @@ package Tubes;
  * @author Keriwisnu
  */
 public class nyoba2 {
-    //percobaan gan
+    //percobaan ganzzz
 }
